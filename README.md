@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваше-имя/Date2Date-Bot
+git clone https://github.com/ваше-имя/Date2Date-Bot.git
 cd Date2Date-Bot
 
 2. Создайте виртуальное окружение:
