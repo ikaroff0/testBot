@@ -21,15 +21,21 @@
 ```bash
 git clone https://github.com/ваше-имя/Date2Date-Bot.git
 cd Date2Date-Bot
+```
 
 2. Создайте виртуальное окружение:
+```bash
 python -m venv venv
 source venv/bin/activate
+```
 
 3. Установите зависимости:
+```bash
 pip install -r requirements.txt
+```
 
 4. Запустите бота:
+```bash
 python bot.py
 ```
 
