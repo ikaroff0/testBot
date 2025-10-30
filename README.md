@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ikaroff0/Date2Date-Bot.git
+git clone https://github.com/ikaroff0/testBot.git
 cd Date2Date-Bot
 ```
 
