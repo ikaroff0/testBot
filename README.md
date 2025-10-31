@@ -22,7 +22,7 @@
 1. Скачайте и распакуйте ZIP-архив или клонируйте репозиторий:
 ```bash
 git clone https://github.com/ikaroff0/testBot.git
-cd Date2Date-Bot
+cd testBot
 ```
 
 2. Создайте виртуальное окружение:
